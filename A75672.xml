@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of the charge of the vvardmote enquest.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75672</idno>
+            <idno type="STC">Wing A3870</idno>
+            <idno type="STC">Thomason 669.f.15[6]</idno>
+            <idno type="STC">ESTC R212101</idno>
+            <idno type="EEBO-CITATION">99870753</idno>
+            <idno type="PROQUEST">99870753</idno>
+            <idno type="VID">123148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123148)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of the charge of the vvardmote enquest.</title>
+               </titleStmt>
+               <extent>3 sheets ([3] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Richard Cotes, Printer to the Honourable City of London,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer from colophon; publication date from Wing.</note>
+                  <note>In this edition, first line of text ends: bee, not.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Social conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:123148:1" rendition="simple:additions"/>
+            <head>The Articles of the charge of the Wardmore Enqueſt.</head>
+            <p>
+               <note place="margin">Peace.</note> 
+               <seg rend="decorInit">Y</seg>Ee ſhall ſweare that ye ſhall truly enquire, if the peace of the King our Soveraigne Lord bee not kept as it ought to be, and in whoſe default, and by whom it is broken or diſturbed.</p>
+            <p n="2">
+               <note place="margin">Franke pledge.</note> 2 Alſo if any man be received within this ward, but if he be under free pledge, that is to ſay, bee ſworne afore the Alderman at his Court, or elſe afore the ſaid Alderman betweene this and the Munday next after the feaſt of the Epiphany next comming.</p>
+            <p n="3">
+               <note place="margin">Out-lawes, Traytors, Fe<g ref="char:EOLhyphen"/>lons, &amp;c.</note>3 Alſo if there dwell any man within the ward, that is outlawed, or indicted of treaſon or felony, or be any receiver of Traytors or Felons.</p>
+            <p n="4">
+               <note place="margin">Thames.</note> 4 Alſo ye ſhall enquire and truly preſent all the offences &amp; defaults done by any perſon or perſons within the River of Thames, according to the intent and purport of an Act made by our late Soveraigne Lord King Edward the ſixth in his high Court of Parliament, and alſo of divers other things ordained by Act of common Councell of this Citie, for the redreſſe and amendment of the ſaid River, which as now is in great decay and ruine, and will be in ſhort time paſt all remedy, if high and ſubſtantiall proviſion, and helpe be not had with all ſpeed and diligence poſſible, as more plainly appeareth in the ſaid Act of Parliament, and the ſaid Act of common Councell of this Citie.</p>
+            <p n="5">
+               <note place="margin">Congregati<g ref="char:EOLhyphen"/>ons.</note> 5 Alſo if any manner perſon make congregation, or be receiver or gatherer of evill companies.</p>
+            <p n="6">
+               <note place="margin">Ryotor, Barator.</note>6. Alſo if any man be a common riotor, or a barator walking by nightertaile without light, againſt the rule and cuſtome of this Citie.</p>
+            <p n="7">
+               <note place="margin">Peace, hue and crie.</note>7 Alſo if there be any man within this ward, that will not helpe, ayde, ne ſuccour the Conſtables, Bedle, and o<g ref="char:EOLhyphen"/>ther miniſters of this Citie in keeping of the peace, and arreſt the evill doers with rearing of hue and crie.</p>
+            <p n="8">
+               <note place="margin">Huckſters, re<g ref="char:EOLhyphen"/>ceivers of Ap<g ref="char:EOLhyphen"/>prentices, Arti<g ref="char:EOLhyphen"/>ficers, &amp;c.</note>8. Alſo if there be any Huckſter of Ale or Beere that commonly uſeth to receive any Apprentices, ſervants, artifi<g ref="char:EOLhyphen"/>cers or labourers, that commonly uſe to play at the dice, cardes, or tables, contrary to the forme of the Statute in that caſe ordained and provided.</p>
+            <p n="9">
+               <note place="margin">Inholder, Ta<g ref="char:EOLhyphen"/>verner, Victu<g ref="char:EOLhyphen"/>aller.</note>9 Alſo if there be any Inholder, Taverner, Brewer, Huckſter, or other Victualler, that hold open their houſes af<g ref="char:EOLhyphen"/>ter the houre limited by the Mayor.</p>
+            <p n="10">
+               <note place="margin">Curfue.</note> 10 Alſo, if any pariſh Clerke ring the bell, called the Curfue bell, after Curfue rungen at the Churches of Bowe, Barking Church, S. Brides, and S. Giles without Cripplegate.</p>
+            <p n="11">
+               <note place="margin">Bawdes, main<g ref="char:EOLhyphen"/>tainers of quarrells. &amp;c.</note>11 Alſo, ye ſhall inquire if any putour that is to ſay, man bawd, or woman bawd, common hazardours contectour, maintainer of quarrels, champertours, or embracers of Enqueſts, or other common miſdoers, be dwelling within this ward, and preſent their names.</p>
+            <p n="12">
+               <note place="margin">Strumpet, A<g ref="char:EOLhyphen"/>dulterer, witch, Scold. Hot-houſe.</note>12 Alſo, if any bawd, common ſtrumpet common adulterer, witch, or common ſcold be dwelling within this ward.</p>
+            <p n="13">13 Alſo, if there be any houſe, wherein is kept and holden any hot-houſe, or ſweating-houſe, for eaſe and health of men, to the which be reſorting or converſant any ſtrumpets, or women of evill name or fame; or if there be any hot-houſe or ſweating ordaiined for women, to the which is any common recourſe of young men, or of other perſons of evill fame and ſuſpect conditions.</p>
+            <p n="14">14 Alſo, if there be any ſuch perſons, that keepe or hold any ſuch hot-houſes, either for men or women, and have found no ſurety to the Chamberlaine for their good and honeſt behaviour, according to the Lawes of this Citie, and lodge any manner perſon by night contrary to the ordinance thereof made, by the which he or they ſhall forfeit twen<g ref="char:EOLhyphen"/>ty pounds to the Chamber, if they doe the contrary.</p>
+            <p n="15">
+               <note place="margin">Thames, dit<g ref="char:EOLhyphen"/>ches, ſtreets, &amp;c.</note>15 Alſo, if any manner of perſon, caſt or lay dung, ordure, rubbiſh, ſeacole duſt ruſhes, or any other thing noyant, in the River of Thames, Walbrooke, Fleete, or other ditches of this Citie, or in the open ſtreets, wayes, or lanes with<g ref="char:EOLhyphen"/>in this Citie.</p>
+            <p n="16">
+               <note place="margin">Channell.</note> 16 Alſo, if any perſon, after a great raine falleth, or at any other time ſweepe any dung, ordure, rubbiſh, ruſhes, ſeacole duſt, or any other thing noyant, downe into the channell of any ſtreet or lane, whereby the common courſe there is let, and the ſame things noyant driven thereby downe into the ſaid water of Thames.</p>
+            <p n="17">17 Alſo, if any manner perſon nouriſh Hogs, Oxen, Kine, Duckes, or any Beaſts within this ward, to the grie<g ref="char:EOLhyphen"/>vance and diſeaſe of their neighbours.<note place="margin">Hogs, Oxen, Kine, Duckes, &amp;c</note>
+            </p>
+            <p n="18">
+               <note place="margin">Vſurer.</note> 18 Alſo, if any Vſurers, or falſe Cheveſancers be dwelling within this ward.</p>
+            <p n="19">
+               <note place="margin">Perſons indi<g ref="char:EOLhyphen"/>cted in one Ward, flying into another.</note>19 Alſo, where afore this time it is ordained and enacted, as hereafter followeth. Item, for to eſchew the evils of miſgoverned perſons that daily when they be indicted in one ward flie into another: It is ordained by the Mayor and Aldermen, that as ſoone as a man or woman ſuſpect, firſt doe come to dwell within any houſe, in any ward within the Citie, the Conſtables, Bedles, or other officers of the ſame, ſhalbe charged by their oathes at the generall Court, to enquire and eſpie from whence they come. And if they finde by their own confeſſion, or by the record of any of the Bookes of any Alderman of the Citie, that they be indicted or caſt of evill and noyous life, and will not finde ſuretie for their good a bearing and honeſt governance to the Alderman for the time being, that then they ſhall not dwell there from thenceforth, but ſhall be warned to avoid within three or foure dayes, or more or leſſe after, as it ſhall be ſeene to the Alderman of the ward for the time being; and that the Landlord that letteth the houſe or his Attourney, ſhall be alſo warned to make them to avoyd out of his houſe aforeſaid, within the ſaid time limited by the Alderman. And if they be found there after the time, that then not onely the ſaid diſhoneſt perſons ſhall have im<g ref="char:EOLhyphen"/>priſonment of their bodies after the diſcretion of the Mayor &amp; Aldermen; but alſo the ſaid Landlords, letters of the ſaid houſes, ſhall forfeit to the Guildhall, as much as they ſhould have had for letting of the ſaid houſe, or ſhould be paid by the yeare, if the ſaid perſons or other had dwelled in the ſaid houſe.</p>
+            <pb facs="tcp:123148:2"/>
+            <p n="20">
+               <note place="margin">Colouring for<g ref="char:EOLhyphen"/>reine goods.</note>20 Alſo, if any Freeman againſt his oath made, conceale, cover, or colour the goods of Forreiners, by the which the King may in any wiſe loſe, or the Franchiſes of this Citie be imblemiſhed.</p>
+            <p n="21">
+               <note place="margin">Forreine buy<g ref="char:EOLhyphen"/>ing and ſelling.</note>21 Alſo if any Forreine buy or ſell with any other Forreine within this Citie, or Suburbs thereof, any goods or merchandizes, the ſame goods or merchandizes be forthwith forfeit to the uſe of the Comminaltie of this Citie.</p>
+            <p n="22">
+               <note place="margin">Freemen not reſident.</note>22 Alſo, if every Freeman, which receiveth or taketh the benefit, and enioyeth the Franchiſes of this City, be con<g ref="char:EOLhyphen"/>tinually dwelling out of this Citie, and hath not, ne will not (after his oath made) be at ſcot and lot, nor partner to the charges of this Citie, for the worſhip of the ſame Citie, when he is duly required.</p>
+            <p n="23">
+               <note place="margin">Orphanes, Wards, Marriages, Officers.</note>23 Alſo, if any man conceale the goods of Orphanes of this City, of whom the ward and marriage of right belon<g ref="char:EOLhyphen"/>geth to the Mayor and Aldermen of this Citie.</p>
+            <p n="24">24 And if any Officer by colour of his office, doe extortion to any man, or be maintainer of quarrels againſt right, or take carriage, or arreſt victuall unduely.</p>
+            <p n="25">
+               <note place="margin">Boatmen. Ferriours.</note>25 Alſo, if any Boatman or Ferriour be dwelling in the ward, that taketh more for Boat-manage or Ferriage than is ordained.</p>
+            <p n="26">
+               <note place="margin">Purpreſtures, Pent-houſe, Jetties, &amp;c.</note> 26 Alſo, if any man make Purpreſtures, that is to ſay, incroach or take of the common ground of this Citie, by land or by water, as in wals, pales, ſtalles, ſtoupes, grieces, or doores of cellars, or in any other like, within the ward, or if any porch, penthouſe, or ietty be too low, in letting of men that ride beſide, or carts that goe thereforth.</p>
+            <p n="27">
+               <note place="margin">Pent-houſes, ſtalles, &amp;c.</note>27 Alſo, that pentiſes and ietties be at the leaſt of the heighth of nine foot, and that the ſtalles be not but of two foot &amp; an halfe in breadth, and to be flexible or moveable, that is to ſay, to hang by Iemewes or Garnets, ſo that they may be taken up and let downe.</p>
+            <p n="28">
+               <note place="margin">Way, water<g ref="char:EOLhyphen"/>courſe.</note>28 Alſo, if any common way or common courſe of water be forecloſed or letted, that it may not have his courſe as it was wont, to the annoyance of the Ward, and by whom it is done.</p>
+            <p n="29">
+               <note place="margin">Pavements.</note> 29 Alſo, if any pavement be defective, or too high in one place, and too low in another, to the diſturbance of riders, and goers thereby, and carts that goe thereupon.</p>
+            <p n="30">
+               <note place="margin">Regrators, Foreſtallers.</note>30 Alſo, if any Regrator or Foreſtaller of victuall, or of any other merchandizes which ſhould come to this Citie to be ſold, be dwelling within this ward. A Regrator is as much as to ſay, as he that buyeth up all the victuall or mer<g ref="char:EOLhyphen"/>chandizes, or the moſt part thereof when it is come to the Citie, or the Suburbs of the ſame, of a low price, and then afterward ſelleth it at his owne pleaſure, at a high and exceſſive price. A Foreſtaller is he that goeth out of the Citie, and meeteth with the victuall or merchandize by the way, comming to the Citie to be ſold, and there buyeth it, both theſe be called in the Law, <hi>Inimici publici patriae,</hi> which is to ſay, Open enemies to a countrey.</p>
+            <p n="31">31 Alſo, if any Butcher, Fiſhmonger, Poulter, Vintner, Hoſtler, Cooke, or ſeller of victuall, doe ſell victuall at unreaſonable prices.<note place="margin">Price of victuall.</note>
+            </p>
+            <p n="32">
+               <note place="margin">Hay.</note> 32 Alſo, if any Hoſtler ſell hay, oates, or provender at exceſſive prices, taking greater gaine thereby, than is reaſo<g ref="char:EOLhyphen"/>nable and lawfull.</p>
+            <p n="33">
+               <note place="margin">Victuals un<g ref="char:EOLhyphen"/>wholeſome Price.</note>33 Also, if any victualler ſell any victuals not covenable, or unwholſome for mans body, or elſe dearer than is pro<g ref="char:EOLhyphen"/>claimed by the Mayor.</p>
+            <p n="34">
+               <note place="margin">Meaſures un<g ref="char:EOLhyphen"/>ſealed.</note>34 Ye ſhall diligently make ſearch and inquirie, whether there be any Vintner, Inholder, Alehouſe-keeper, or any other perſon or perſons whatſoever within your ward, that doe uſe or keepe in his or their houſe or houſes, any Cans, ſtone-pots, or other meaſures which be unſealed, and by law not allowed to ſell beere or ale thereby, and whether they doe ſell any of their beſt beere or ale, above a penny a quart: or any ſmall ale or beere, above a halfe penny a quart: and whether any of them doe ſell by any meaſure not ſealed. If there be any ſuch, you ſhall ſeize them, and ſend them to the Guildhall, to the Chamberlaines office, and preſent their names and faults by indenture, ſo oft as there ſhall be any occaſion ſo to doe.</p>
+            <p n="35">
+               <note place="margin">Weights and Meaſures.</note> 35 Ye ſhall alſo make ſearch in the ſhops and houſes of all the Chandlers and of all others, which ſell by weight or meaſure dwelling within your ward, and ſee that their ſcales be not one heavier than the other, &amp; that their weights and meaſures, and well buſhels as leſſer meaſures, as well thoſe that they ſell ſeacoles by (which ought to be heaped) that they be in breadth according to the new ſtandard, ſealed as all others: and that all yards and elles, that they be their iuſt lengths and ſealed, that the poore and other his Maieſties ſubiects be not deceived. And further if any doe buy by one weight or meaſure, and ſell by others. And if in your ſearch, you finde any falſe Weight, Meaſures, or Scales, yee ſhall ſeize them, and ſend them to the Guildhall to the Chamberlaine. And you ſhall alſo doe the like if you ſhall find any that doe ſell any thing by Venice weights, contrary to the law and his Maieſties proclamations, pre<g ref="char:EOLhyphen"/>ſent their names and faults.</p>
+            <p n="36">
+               <note place="margin">Inholder. Browne-Baker.</note> 36 Alſo, if any Inholder bake any bread to ſell within his houſe, and if any Baker of ſowre bread, bake white bread to ſell, or marke not his bread, or elſe take more for the baking then three pence for a buſhell.</p>
+            <p n="37">37 Alſo, ye ſhall inquire, if any houſe be covered otherwiſe than with tyle, ſtone, lead, for perill of fire.</p>
+            <p n="38">
+               <note place="margin">Houſe, Tyle. Leper, Begger. Bakers, Brew<g ref="char:EOLhyphen"/>ers Fire.</note>38 Alſo, if any Leper, Faitour, or mighty begger be dwelling within this ward.</p>
+            <p n="39">39 Alſo, if any Baker or Brewer bake or brew with ſtraw, or any other thing which is perillous for fire.</p>
+            <p n="40">
+               <note place="margin">Painted viſage.</note> 40 Alſo, if any man goe with painted viſage.</p>
+            <p n="41">
+               <note place="margin">Candle-light.</note> 41 Alſo, if there be any man that hangeth not out a Lanterne with a candle therein burning, after the uſage, ac<g ref="char:EOLhyphen"/>cording to the commandement thereupon given.</p>
+            <p n="42">42 Alſo, if any perſon bring or cauſe to be brought to this Citie, or the Liberties thereof, to be ſold, or ſell, offer or put to ſale, any Tallwood, Billets, Faggots, or other firewood, not being of the full aſſize which the ſame ought to hold.</p>
+            <p n="43">
+               <note place="margin">Wood, Countrey.</note>43 Alſo, if any Freeman of this Citie uſe to reſort into the countries neere to this Citie, and there to engroſſe and buy up much Billet, Tallwood, Faggot, Toſard, or other firewood, and convey the ſame by water unto this Citie, and there lay it upon their wharfes and other places, and ſo keepe it till they may ſell it at high and exceſſive pri<g ref="char:EOLhyphen"/>ces, at their owne wils.</p>
+            <p n="44">44 Alſo, if any Woodmonger, or any other, ſell any Billets or other firewood, above the price ſet by the Lord Mayor.</p>
+            <p n="45">
+               <note place="margin">Cheeſe, Butter.</note> 45 Alſo, if any Citizen of this Citie by himſelfe, or any other perſon for him, or to his uſe, uſe to reſort into the coun<g ref="char:EOLhyphen"/>try, and there buy and engroſſe great quantity of cheeſe and butter, as well barrelled as otherwiſe, and after convey it by water or otherwiſe to this Citie to be ſold at deare and exceſſive prices.</p>
+            <p n="46">
+               <note place="margin">Free men to ſhew their Copies.</note>46 Alſo, for as much as it is thought, that divers and many perſons dwelling within the Liberties of this Citie, daily occupy as Freemen, whereas indeed they be none, nor never were admitted into the Liberties of this Citie,
+<pb facs="tcp:123148:3"/>Ye ſhall therefore require every ſuch perſon dwelling within this ward, whom ye ſhall ſuſpect of the ſame to ſhew you the Copy of his Freedome under the ſeale of Office of the Chamberlaine of the ſaid City, and ſuch as ye ſhall find without their Copies, or deny to ſhew their Copies ye ſhall write and preſent their names in your Indentures.</p>
+            <p n="47">
+               <note place="margin">Melting tallow</note> 47 Alſo, you ſhall inquire and truely preſent all ſuch perſons as uſe melting of tallow, contrary to an Act of com<g ref="char:EOLhyphen"/>mon Councell, in that caſe made and provided.</p>
+            <p n="48">
+               <note place="margin">Fire-preſſes.</note> 48 Alſo, you ſhall truly preſent all perſons which have or uſe any Fire-preſſes within the ſaid City, or Liberties of the ſame, for preſſing or dreſſing of nether ſtockes, woolen clothes, or other things.</p>
+            <p n="49">49 Alſo, you ſhall inquire of all Armorers and other Artificers, uſing to worke in Metall, which have, or uſe any Reardorſes or any other places, dangerous or perilious for fire.</p>
+            <p n="50">
+               <note place="margin">Appraiſers.</note> 50 Alſo, if any have appraiſed any goods of any Freeman deceaſed, leaving behind him any Orphan, or Orphans, and the Appraiſers not ſworne before the Lord Maior, or the Aldermen of the ward.</p>
+            <p n="51">
+               <note place="margin">Beame.</note> 51 Alſo, if any Freeman buy any wares or merchandizes unweighed, which ought to be weighed at the Kings Beame, of any ſtranger or forreine free of the Liberties of this City, contrary to the Act of common Councell in that caſe made and provided.</p>
+            <p n="52">
+               <note place="margin">Clothes.</note> 52 Alſo, if any buy or ſell any cloth or clothes in the houſe, ſhop, ware-houſe, or other place of any Clothworker, or other perſon, againſt any ordinance or cuſtome of this City: or if any Clothworker or other doe receive or harbour a<g ref="char:EOLhyphen"/>ny clothes before the ſame be brought to Blackwell-hall, contrary to the ordinance made in that behalfe.</p>
+            <p n="53">
+               <note place="margin">Carmen.</note> 53 Alſo, if any Carman take any money for carriage of any goods, wares, or merchandizes, above the rates ordai<g ref="char:EOLhyphen"/>ned.</p>
+            <p n="54">
+               <note place="margin">Buildings, di<g ref="char:EOLhyphen"/>vided houſes, Inmates.</note> 54 Alſo, if any make or cauſe to be made any new building or buildings, or divide or cauſe to be divided any houſe or houſes, or receive any Inmate or Inmates, contrary to the Kings Maieſties Proclamation, or contrary to Law, or any Statute of this Realme.</p>
+            <p n="55">
+               <note place="margin">Hawkers.</note> 55 Alſo, if any be dwelling within this ward, which do offer or put to ſale any wares or merchandizes in the open ſtreets or lanes of this City, or goe from houſe to houſe to ſell the ſame, commonly called hawkers, contrary to the Act made in that behalfe.</p>
+            <p n="56">
+               <note place="margin">Freedome.</note> 56 Alſo, if any have covetouſly, fraudulently, or unduely obtained the freedome of this City.</p>
+            <p n="57">
+               <note place="margin">Collectors.</note> 57 Alſo, if any Collector of Fifteenths or other duties for the publique ſervice of the King or of this City, doe re<g ref="char:EOLhyphen"/>taine in his hands any part of the money collected to his owne uſe.</p>
+            <p n="58">
+               <note place="margin">Women re<g ref="char:EOLhyphen"/>ceivers of ſer<g ref="char:EOLhyphen"/>vants.</note>58 Ye ſhall alſo inquire if there be dwelling within your ward any woman-broker, ſuch as reſort to mens houſes demanding of their maid-ſervants, if they doe like of their ſervices: if not, then they tell them they will helpe them to a better ſervice, and ſo allure them to come from their Maſters to their houſes, where they abide as boorders till they be provided for. In which time it falleth out, that by lewd young men that reſort to thoſe houſes, they be oftentimes made harlots to their utter undoing, and the great hurt of the Common-wealth: wherefore if any ſuch be, you ſhall preſent them that order may be taken for reformation.</p>
+            <p n="59">
+               <note place="margin">Privies.</note> 59 Alſo, if any have or uſe any common Privy having iſſue into any common Sewer of the City.</p>
+            <p n="60">
+               <note place="margin">Vagabonds.</note>60 And if any Conſtable, Beadle, or other Officer be negligent or remiſſe in diſcharging his duty, touching the execution of the Statute made for puniſhment of rogues, vagabonds, and ſturdy beggers, or otherwiſe and wherein the default is.</p>
+            <p n="61">
+               <note place="margin">Poore.</note> 61 Alſo, if any to whom the execution of the Statute made for reliefe of the poore doth appertaine, be remiſſe in diſcharging his duty touching the execution of the ſame Statute, and wherein the default is.</p>
+            <p n="62">
+               <note place="margin">Legacies.</note> 62 Alſo, if any Executor or other perſon retaine in his hands any Legacy, ſumme of money, or other thing given to any charitable uſe.</p>
+            <p n="63">
+               <note place="margin">Drunkards Whoremonger, Sabbath, Jeſuite, Seminary Prieſt, Secular Prieſt, Popiſh Recu<g ref="char:EOLhyphen"/>ſant, Couſeners, &amp;c.</note>63 Ye ſhall inquire whether there be within your ward any common Drunkard Whoremonger, Blaſphemer of Gods holy name, prophaner of the Sabbath, Ieſuite Seminary, or ſecular Prieſt, or any receiver, reliever, or main<g ref="char:EOLhyphen"/>tainer of any of them, or any Popiſh Recuſant, Cozener, or ſwaggering idle companion, ſuch as cannot give account how they live: if there be any ſuch you ſhall preſent them and the names of thoſe that lodge them or aide them.</p>
+            <p n="64">
+               <note place="margin">Maſſe,</note> 64 Ye ſhall alſo inquire whether any perſon or perſons doe or ſhall ſay or ſing Maſſe within your ward, or be pre<g ref="char:EOLhyphen"/>ſent at any Maſſe.</p>
+            <p n="65">
+               <note place="margin">Roman catho<g ref="char:EOLhyphen"/>lique religion.</note> 65 Alſo, if any perſon or perſons within your ward being evill affected, doe or ſhall extoll the Roman Catholike Religion above the Religion profeſſed and eſtabliſhed by the Kings Maieſties authority in England, or doe, or ſhall deprave the Religion now profeſſed in this Realme by authority as above, which may breed diſcord in the City, and diſſention in the Common-wealth, ye ſhall carefully preſent the ſame perſons, and their offences.</p>
+            <p n="66">66 Alſo, if any perſon or perſons that keepeth horſes in their houſes, doe lay his or their ſtable dung or ſuch kind of ſtinking filth in any ſtreets or lanes of this City to the great annoyance of the people paſſing that way, and doe not loade his dung-cart at his Stable doore, as he ought to doe.</p>
+            <p n="67">
+               <note place="margin">Aſſemble monethly.</note>67 You ſhall aſſemble your ſelves once every moneth, or oftner if need require, ſo long as you ſhall continue of this Inqueſt, and preſent the defaults which you ſhall find to be committed concerning any of the articles of your charge, to the end due remedy may be ſpeedily ſupplied, and the offenders puniſhed, as occaſion ſhall require.</p>
+            <p n="68">68 And in making your preſentments, your Clerke is carefully to write the Chriſtian name, ſurname, and Addi<g ref="char:EOLhyphen"/>tion or calling of every offender and the name of the Pariſh wherein the offence was committed, and ſome certaine time how long the offence hath beene continued: and in preſenting any perſons for dividing houſes or Inmates, to write the names and addition of the preſent Landlord receiving the rents, and the names of the Tenants in poſſeſ<g ref="char:EOLhyphen"/>ſion, and of the Inmate in any houſe: and alſo to write in the Margent on the ſide of every preſentment the name or names upon whoſe evidence you make ſuch preſentment.</p>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London by Richard Cotes, Printer to the Honourable City of London.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
